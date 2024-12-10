@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  background: #d5e1ef;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 95vb;
+  font-family: 'Outfit', sans-serif;
+}
